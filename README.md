@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @payalprakash99
-- 👀 I’m interested in ReactJS and NodeJS
-- 🌱 I’m currently learning ReactJS
+- 👀 I’m interested in Java and Javascript
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on all real world projects that will help me expand my knowledge 
 - 📫 How to reach me : mail me at payalprakash.shah@gmail.com
 
